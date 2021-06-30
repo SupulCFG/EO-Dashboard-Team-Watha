@@ -1,0 +1,20 @@
+{
+    "headers": {
+        "Content-Type": "application/json",
+        "User-Agent": "sentinelhub-py/v3.3.1"
+    },
+    "payload": {
+        "bins": 20,
+        "crs": "EPSG:4326",
+        "geometry": "POLYGON ((48.954682 2.182075, 48.788478 2.099631, 48.658021 2.24803, 48.694293 2.368948, 48.85358 2.451392, 48.922207 2.423911, 48.954682 2.182075))",
+        "layer": "RAW_NO2_DATA",
+        "maxcc": 100.0,
+        "resolution": "3500m",
+        "service": "fis",
+        "time": "2018-04-30T00:00:00Z/2021-04-19T23:59:59Z",
+        "type": "equidistant",
+        "warnings": false
+    },
+    "timestamp": "2021-06-30T08:25:05.427209",
+    "url": "https://shservices.mundiwebservices.com/ogc/fis/e9d989da-4f24-4011-b2e9-75037c492de4"
+}
